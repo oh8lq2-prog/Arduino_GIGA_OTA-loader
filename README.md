@@ -23,4 +23,4 @@
  *   deinit the block devices before ota.begin(), then remount only on failure.
  *
  *
- * Jari Ojala OH8LQ
+
